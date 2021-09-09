@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/gXUslYH.gif)
+![](https://github.com/ElioZhou/Prework/blob/main/tip%20cal.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

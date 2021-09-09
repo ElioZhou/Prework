@@ -42,6 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I have difficulty to associate the Settings View Controller with the SettingsViewController.swift document, but after I seached the Internet I finally found a way to solve it.
 Additionally, I didn't know how to dynamicallu update the tip when sliding the tip rate slider, I read some tutorials to find a way and implemented this new feature.
+Moreover, I found that the keyboard didn/t pop up itself, it took me some time to fix it
 
 ## License
 
